@@ -1,4 +1,3 @@
-Absolutely! Here’s the full README text you can directly copy and paste into your README.md file:
 
 # TCP Chat Application
 
